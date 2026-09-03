@@ -1,8 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Bladimir Mieles </h1>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
 I am a systems engineering student passionate about learning and acquiring new knowledge in software development.
+
+# 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=JnrMls&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=JnrMls&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--
 **JnrMls/JnrMls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
