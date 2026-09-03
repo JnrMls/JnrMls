@@ -1,5 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Bladimir Mieles </h1>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+
+I am a systems engineering student passionate about learning and acquiring new knowledge in software development.
 <!--
 **JnrMls/JnrMls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
