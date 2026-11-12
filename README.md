@@ -3,6 +3,7 @@
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
 I am a systems engineering student passionate about learning and acquiring new knowledge in software development.
+Studying at CUC (Corporación Universitaria de la Costa)
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=JnrMls&theme=dark&hide_border=false)<br/>
